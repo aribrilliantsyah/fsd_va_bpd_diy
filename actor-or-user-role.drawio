@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T08:15:30.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="ZPlMlre82WHrrsE-FVRk" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T08:15:54.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="N29BZ8OeTC6i5ZNdLS5B" version="17.4.5" type="github" pages="3">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         <mxCell id="EE5F9ga1tDx6pTcy7FK6-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmf4C5ljFOlbd8LhVA5d-2" target="EE5F9ga1tDx6pTcy7FK6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EE5F9ga1tDx6pTcy7FK6-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmf4C5ljFOlbd8LhVA5d-2" target="EE5F9ga1tDx6pTcy7FK6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bmf4C5ljFOlbd8LhVA5d-2" value="User Rekening Induk (&lt;i&gt;&lt;b&gt;Maker&lt;/b&gt;&lt;/i&gt;)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="250" width="30" height="60" as="geometry" />
         </mxCell>
@@ -80,6 +83,9 @@
         </mxCell>
         <mxCell id="yXBeUPJy_ZY4BnMqiwiV-2" value="&lt;span&gt;Divis Trisurti Kantor Pusat&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EE5F9ga1tDx6pTcy7FK6-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z2vIciOsJapQirO4XwJz-1" target="EE5F9ga1tDx6pTcy7FK6-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z2vIciOsJapQirO4XwJz-1" value="User VA (&lt;i&gt;&lt;b&gt;Maker&lt;/b&gt;&lt;/i&gt;)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="30" height="60" as="geometry" />
