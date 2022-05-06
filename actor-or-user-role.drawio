@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T08:49:54.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="oa800DRVj7rMH89ptzhv" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T08:51:51.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="wdJWvCh1V2-qMGrBrGOT" version="17.4.5" type="github" pages="3">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,8 +291,20 @@
         <mxCell id="5gYrlPkNIZGWHcSdsvXh-37" value="Mengelola Hak Akses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="-280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5gYrlPkNIZGWHcSdsvXh-39" value="Mengotorisasi Disbursement Saldo VA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5gYrlPkNIZGWHcSdsvXh-39" value="Memantau log aktivitas user dashboard va" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="2020" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PXH0fNNTPpQ8F-bkBiHJ-1" value="Memantau log API/Sistem VA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="2120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PXH0fNNTPpQ8F-bkBiHJ-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PXH0fNNTPpQ8F-bkBiHJ-3" target="5gYrlPkNIZGWHcSdsvXh-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXH0fNNTPpQ8F-bkBiHJ-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PXH0fNNTPpQ8F-bkBiHJ-3" target="PXH0fNNTPpQ8F-bkBiHJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXH0fNNTPpQ8F-bkBiHJ-3" value="Divisi IT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="669.99" y="2040" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
