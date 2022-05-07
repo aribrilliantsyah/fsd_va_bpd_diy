@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T04:29:47.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="loXXyAyxYuTpXoLwnaBJ" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-07T04:41:42.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="CPBf_DUx6rvz1f22DENb" version="17.4.5" type="github" pages="14">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1l8l-XKB5mnGEGC3BJaC" name="Manajement User">
-    <mxGraphModel dx="573" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,6 +712,66 @@
         </mxCell>
         <mxCell id="K6PBicfXjfji62fOUvgF-4" value="Mengelola user cabang" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="K6PBicfXjfji62fOUvgF-3">
           <mxGeometry x="100" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ym4gUkVF4wKLPDz9DUzM" name="Manajemen Group Hak Akses">
+    <mxGraphModel dx="701" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uiUydposzHJaFsg1s7m1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiUydposzHJaFsg1s7m1-2" target="uiUydposzHJaFsg1s7m1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiUydposzHJaFsg1s7m1-2" value="Divisi Trisuri &lt;br&gt;Kantor Pusat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="105" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uiUydposzHJaFsg1s7m1-3" value="Manajemen Group Hak Akses (Sistem VA)" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uiUydposzHJaFsg1s7m1-4" value="Mengelola group hak akses user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="uiUydposzHJaFsg1s7m1-3">
+          <mxGeometry x="101" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Qh48rzJ4jwmFNIfMZZm6" name="Log Audit Trail Web">
+    <mxGraphModel dx="652" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1NsopUvGzS4VkOCWV2uy-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NsopUvGzS4VkOCWV2uy-2" target="1NsopUvGzS4VkOCWV2uy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NsopUvGzS4VkOCWV2uy-2" value="Divisi TI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NsopUvGzS4VkOCWV2uy-3" value="Log Audit Trail Web (Sistem VA)" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1NsopUvGzS4VkOCWV2uy-4" value="Memantau log aktivitas user pada &lt;br&gt;dashboard VA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1NsopUvGzS4VkOCWV2uy-3">
+          <mxGeometry x="101" y="60" width="149" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YNxpR9_-gY0NVUPbAIZ2" name="Log Audit Trail Service">
+    <mxGraphModel dx="757" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AROftoCwjP8RMJg_lsYB-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AROftoCwjP8RMJg_lsYB-2" target="AROftoCwjP8RMJg_lsYB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AROftoCwjP8RMJg_lsYB-2" value="Divisi TI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AROftoCwjP8RMJg_lsYB-3" value="Log Audit Trail Service (Sistem VA)" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AROftoCwjP8RMJg_lsYB-4" value="Memantau log &lt;br&gt;aktivitas api/&lt;br&gt;sistem VA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AROftoCwjP8RMJg_lsYB-3">
+          <mxGeometry x="101" y="60" width="149" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
