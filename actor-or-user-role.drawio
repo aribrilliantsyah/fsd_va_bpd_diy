@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T03:54:58.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="6gwZkyNuI8g3BGKswQUv" version="17.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-07T04:27:25.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="wCQFowNC_PH2XqN05e8x" version="17.4.5" type="github" pages="10">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -672,6 +672,26 @@
         </mxCell>
         <mxCell id="vJ4KAn6SFNLKt4imCyEk-17" value="User VA (&lt;b&gt;&lt;i&gt;Approver&lt;/i&gt;&lt;/b&gt;)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="435" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J-4STKlwremCPt_kRgVr" name="Manajemen Fee">
+    <mxGraphModel dx="757" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JU88aUej89yNjGC3pHLn-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JU88aUej89yNjGC3pHLn-2" target="JU88aUej89yNjGC3pHLn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU88aUej89yNjGC3pHLn-2" value="Divisi Trisuri &lt;br&gt;Kantor Pusat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="105" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JU88aUej89yNjGC3pHLn-3" value="Manajemen Fee (Sistem VA)" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JU88aUej89yNjGC3pHLn-4" value="Mengelola referensi fee" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JU88aUej89yNjGC3pHLn-3">
+          <mxGeometry x="100" y="60" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
