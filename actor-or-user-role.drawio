@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T06:36:23.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="_wjYSbRbyvaQanrJVBPl" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-07T06:36:31.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="0E5GCY1uOGpnSoh34Ryd" version="18.0.1" type="github" pages="14">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
         <mxCell id="5gYrlPkNIZGWHcSdsvXh-35" value="Mengelola User - CS, Penyelia Pelayanan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="-180" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5gYrlPkNIZGWHcSdsvXh-37" value="Mengelola Hak Akses" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5gYrlPkNIZGWHcSdsvXh-37" value="Mengelola Grup Hak Akses" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="-280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5gYrlPkNIZGWHcSdsvXh-39" value="Memantau log aktivitas user dashboard va" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
