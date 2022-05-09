@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T02:28:45.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="s4GU6nI7LtrRL_3K24Oe" version="18.0.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-09T02:38:58.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eLpExwPsw16XBEqgQYNJ" version="17.4.6" type="github" pages="14">
   <diagram id="gvQkwYD1wpzPKUAtZPDy" name="Actor or User Role">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="k8o63jUfa78Hj-n1lb_f-1" value="Penyelia Pelayanan (&lt;b&gt;&lt;i&gt;Approver&lt;/i&gt;&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" parent="iVadBqp8KiOlDJwOdGYh-15" vertex="1">
           <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vk-TQ7HMMibbd5Ip3teX-2" value="Teller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iVadBqp8KiOlDJwOdGYh-15">
+        <mxCell id="vk-TQ7HMMibbd5Ip3teX-2" value="Teller" style="rounded=1;whiteSpace=wrap;html=1;" parent="iVadBqp8KiOlDJwOdGYh-15" vertex="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iVadBqp8KiOlDJwOdGYh-16" value="Level 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -58,17 +58,17 @@
         <mxCell id="vQTT1CyCRL84iEyOzGLP-1" value="Divisi IT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vk-TQ7HMMibbd5Ip3teX-1" value="User VA (&lt;i&gt;&lt;b&gt;End User&lt;/b&gt;&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vk-TQ7HMMibbd5Ip3teX-1" value="User VA (&lt;i&gt;&lt;b&gt;End User&lt;/b&gt;&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vk-TQ7HMMibbd5Ip3teX-3" value="Level 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vk-TQ7HMMibbd5Ip3teX-3" value="Level 5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="S9-TvlgTVQnb_o88Ao3j" name="Use Case">
-    <mxGraphModel dx="1422" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,11 +318,14 @@
         <mxCell id="PXH0fNNTPpQ8F-bkBiHJ-3" value="Divisi IT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="669.99" y="2040" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-XxQQXe5adEf2mwNOgAB-1" value="TES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-380" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="SmNRU1erCtqLG_-Dv8M6" name="Pendaftaran Mitra">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O3MqJ6W7yHwiPI5VdWyH" name="Pendaftaran User Rekening Induk">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pendaftaran User VA" id="9BVCBxehMlQklv_JQXv8">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="c6LIgqy87ei3OWdXYnJM-0" />
         <mxCell id="c6LIgqy87ei3OWdXYnJM-1" parent="c6LIgqy87ei3OWdXYnJM-0" />
@@ -448,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xU0BP4hrBh8lD-IHwpUQ" name="Pendaftaran Instansi">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3emVSL31kA0ZgLL0Osdh" name="Manajement VA">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KE_PUOfTfBGscpIn7S7I" name="Pooling Saldo VA">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OU8yxWERJRLvCRg8D1jM" name="Disbursement Saldo VA">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,7 +689,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J-4STKlwremCPt_kRgVr" name="Manajemen Fee">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,7 +709,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1l8l-XKB5mnGEGC3BJaC" name="Manajemen User">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -726,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ym4gUkVF4wKLPDz9DUzM" name="Manajemen Group Hak Akses">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
