@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T08:57:44.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="F6zBn3GWZe4xssUkqkbi" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T08:58:13.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="9Kq4PfjLjwggtCpPe8hY" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,16 +39,15 @@
         <mxCell id="UypmD_oqZ5udSKEsgVMp-9" value="Formulir perorangan (data pribadi)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UypmD_oqZ5udSKEsgVMp-13">
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-11" target="UypmD_oqZ5udSKEsgVMp-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="420" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="170" y="535" />
+              <mxPoint x="160" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-11" value="Formulir non perorangan (kuasa)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-13" target="UypmD_oqZ5udSKEsgVMp-16">
           <mxGeometry relative="1" as="geometry" />
@@ -80,13 +79,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-24" value="Pilih dulu rekening&amp;nbsp;&lt;br&gt;(list dari CBS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-27" target="UypmD_oqZ5udSKEsgVMp-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-27" value="Formulir telah terisi data pribadi/kuasa dan detail account dari CBS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="750" width="140" height="75" as="geometry" />
+          <mxGeometry x="100" y="750" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-30" target="UypmD_oqZ5udSKEsgVMp-32">
           <mxGeometry relative="1" as="geometry" />
