@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T09:43:35.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="RAW1xBzK9OD6xxRPiQo6" version="18.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-20T09:44:22.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="z0BCW9W12gi8EZucJPJc" version="18.0.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,8 +149,8 @@
         <mxCell id="yVy-xlBkTuNd-zsJptgl-17" value="&lt;div style=&quot;&quot;&gt;Kondisi tertentu:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Istihat makan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Nasabah tiba&quot; pingsan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Akan diadakan pemadaman bergilir&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="25" y="957" width="180" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yVy-xlBkTuNd-zsJptgl-18" value="&lt;div style=&quot;&quot;&gt;Status draft:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- belum lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status permohonan:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Perubahan Data&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Pendaftaran&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="980" width="130" height="94" as="geometry" />
+        <mxCell id="yVy-xlBkTuNd-zsJptgl-18" value="&lt;div style=&quot;&quot;&gt;Status draft:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- belum lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Jenis permohonan:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Perubahan Data&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Pendaftaran&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status Permohonan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Menunggu Persetujuan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Disetujui&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="980" width="170" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
