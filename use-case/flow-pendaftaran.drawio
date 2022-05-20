@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T08:54:34.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="4zH99NqOz6SV99Qg_EN4" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T08:57:44.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="F6zBn3GWZe4xssUkqkbi" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="UypmD_oqZ5udSKEsgVMp-16" value="Account Rekening Kosong?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-20" target="UypmD_oqZ5udSKEsgVMp-30">
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-20" target="UypmD_oqZ5udSKEsgVMp-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-20" value="Formulir telah terisi data pribadi/kuasa" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -88,40 +88,40 @@
         <mxCell id="UypmD_oqZ5udSKEsgVMp-27" value="Formulir telah terisi data pribadi/kuasa dan detail account dari CBS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="750" width="140" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-30" target="UypmD_oqZ5udSKEsgVMp-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="788" />
-              <mxPoint x="470" y="788" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-30" target="UypmD_oqZ5udSKEsgVMp-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-30" value="Pendaftaran ke CBS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="757.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-32" target="UypmD_oqZ5udSKEsgVMp-35">
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-32" target="UypmD_oqZ5udSKEsgVMp-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-32" value="Simpan ke sistem VA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="757.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-35" target="UypmD_oqZ5udSKEsgVMp-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-35" value="Pilih jenis bank&amp;nbsp;&lt;br&gt;(Syariah/Konvensional)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="282.5" y="860" width="145" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-37" target="UypmD_oqZ5udSKEsgVMp-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-37" value="Pilih Produk" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="282.5" y="970" width="145" height="60" as="geometry" />
+          <mxGeometry x="282.5" y="980" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-39" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="1070" width="100" height="40" as="geometry" />
+          <mxGeometry x="305" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-41" value="&lt;div style=&quot;&quot;&gt;Kebutuhan ke CBS:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Get list rekening by nik&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Get detail account rekening&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Register new account rekening&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="620" width="180" height="70" as="geometry" />
+          <mxGeometry x="490" y="840" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-43" target="UypmD_oqZ5udSKEsgVMp-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="713" y="788" />
+              <mxPoint x="630" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-43" value="Pilih jenis bank&amp;nbsp;&lt;br&gt;(Syariah/Konvensional)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="697.5" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
