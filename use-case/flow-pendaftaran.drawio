@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T06:51:23.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="C5NhpXuupnhra64FoR7a" version="18.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-27T06:56:27.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="ksYrzaPM5lopmA5MLmWQ" version="18.1.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
-    <mxGraphModel dx="1564" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -47,7 +47,7 @@
         <mxCell id="UypmD_oqZ5udSKEsgVMp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-24" target="UypmD_oqZ5udSKEsgVMp-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-24" value="Pilih dulu rekening&amp;nbsp;&lt;br&gt;(list dari CBS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-24" value="Pilih &lt;i&gt;account&lt;/i&gt; rekening&amp;nbsp;&lt;br&gt;(list dari CBS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="616" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-27" target="UypmD_oqZ5udSKEsgVMp-32" edge="1">
