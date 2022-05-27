@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T02:49:49.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="hcx64Dude6lCVaukiT_W" version="18.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-27T06:51:23.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="C5NhpXuupnhra64FoR7a" version="18.1.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
-    <mxGraphModel dx="1043" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -140,21 +140,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t-lgnLbnRTIUnxhIE8aY" name="Pendaftaran VA">
-    <mxGraphModel dx="602" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R70iCY9F1-d5qmSovAo6-41" value="Pendaftaran Mitra" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="174" y="170" width="360" height="490" as="geometry" />
+        <mxCell id="R70iCY9F1-d5qmSovAo6-41" value="Pendaftaran VA" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="35" y="170" width="780" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="R70iCY9F1-d5qmSovAo6-42" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
-          <mxGeometry y="20" width="120" height="470" as="geometry" />
+        <mxCell id="R70iCY9F1-d5qmSovAo6-42" value="CS" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry y="20" width="260" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="R70iCY9F1-d5qmSovAo6-43" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
-          <mxGeometry x="120" y="20" width="120" height="470" as="geometry" />
+        <mxCell id="R70iCY9F1-d5qmSovAo6-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R70iCY9F1-d5qmSovAo6-42" source="R70iCY9F1-d5qmSovAo6-59" target="R70iCY9F1-d5qmSovAo6-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R70iCY9F1-d5qmSovAo6-44" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
-          <mxGeometry x="240" y="20" width="120" height="470" as="geometry" />
+        <mxCell id="R70iCY9F1-d5qmSovAo6-59" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;gradientColor=none;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-42">
+          <mxGeometry x="115" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-42">
+          <mxGeometry x="70" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-43" value="Penyelia Pelayanan" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry x="260" y="20" width="280" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-44" value="" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry x="540" y="20" width="240" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
