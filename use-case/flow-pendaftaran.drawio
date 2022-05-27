@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T07:25:27.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="gi4GbdedUJdQcij6LPXK" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-27T02:49:49.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="hcx64Dude6lCVaukiT_W" version="18.1.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
-    <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -28,17 +28,18 @@
             <mxPoint x="230" y="646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-21" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-16" target="UypmD_oqZ5udSKEsgVMp-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-21" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-16" target="c-DvBgmGG_xZ0hKh7Up--0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="646" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-16" value="Account Rekening Kosong?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="314" y="606" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-20" target="UypmD_oqZ5udSKEsgVMp-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-20" value="Formulir telah terisi data pribadi/kuasa" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="616" width="120" height="60" as="geometry" />
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c-DvBgmGG_xZ0hKh7Up--0" target="UypmD_oqZ5udSKEsgVMp-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="646.0666666666666" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Perorangan&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Perusahaan (Badan Usaha)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Institusi (Pemerintah / Non Pemerintah) : Universitas&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="455" y="270" width="300" height="70" as="geometry" />
@@ -47,13 +48,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-24" value="Pilih dulu rekening&amp;nbsp;&lt;br&gt;(list dari CBS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="616" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="616" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-27" target="UypmD_oqZ5udSKEsgVMp-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UypmD_oqZ5udSKEsgVMp-27" value="Formulir telah terisi data pribadi/kuasa dan detail account dari CBS" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="750" width="140" height="75" as="geometry" />
+        <mxCell id="UypmD_oqZ5udSKEsgVMp-27" value="Melengkapi formulir yang telah terisi detail CBS" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="750" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UypmD_oqZ5udSKEsgVMp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeWidth=1;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UypmD_oqZ5udSKEsgVMp-30" target="UypmD_oqZ5udSKEsgVMp-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -118,25 +119,48 @@
           <mxGeometry x="10" y="957" width="180" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yVy-xlBkTuNd-zsJptgl-18" value="&lt;div style=&quot;&quot;&gt;Status draft:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- belum lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- lengkap&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Jenis permohonan:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Perubahan Data&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Pendaftaran&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Status Permohonan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Menunggu Persetujuan&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Disetujui&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Ditolak&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="851" width="170" height="190" as="geometry" />
+          <mxGeometry x="540" y="851" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Jr0z2NA27tEadAU8ZYv0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jr0z2NA27tEadAU8ZYv0-4" target="Jr0z2NA27tEadAU8ZYv0-7">
+        <mxCell id="Jr0z2NA27tEadAU8ZYv0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jr0z2NA27tEadAU8ZYv0-4" target="Jr0z2NA27tEadAU8ZYv0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jr0z2NA27tEadAU8ZYv0-4" value="Pilih Jenis Mitra" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Jr0z2NA27tEadAU8ZYv0-4" value="Pilih Jenis Mitra" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="294" y="275" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jr0z2NA27tEadAU8ZYv0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jr0z2NA27tEadAU8ZYv0-7" target="UypmD_oqZ5udSKEsgVMp-13">
+        <mxCell id="Jr0z2NA27tEadAU8ZYv0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jr0z2NA27tEadAU8ZYv0-7" target="UypmD_oqZ5udSKEsgVMp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jr0z2NA27tEadAU8ZYv0-7" value="Mengisi CIF" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Jr0z2NA27tEadAU8ZYv0-7" value="Mengisi CIF" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="294" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-DvBgmGG_xZ0hKh7Up--0" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melengkapi formulir pendaftaran&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="616" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J89_HUfsq_wLvpUS7bGj" name="Pemindah Bukuan">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="t-lgnLbnRTIUnxhIE8aY" name="Pendaftaran VA">
+    <mxGraphModel dx="602" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R70iCY9F1-d5qmSovAo6-41" value="Pendaftaran Mitra" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="174" y="170" width="360" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-42" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry y="20" width="120" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-43" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry x="120" y="20" width="120" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="R70iCY9F1-d5qmSovAo6-44" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="R70iCY9F1-d5qmSovAo6-41">
+          <mxGeometry x="240" y="20" width="120" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J89_HUfsq_wLvpUS7bGj" name="Disbursement">
+    <mxGraphModel dx="920" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,11 +168,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rGh3m8e8_r0uxsUtoHtV" name="Cash Pooling">
-    <mxGraphModel dx="1422" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3U9bPzAuR0EvQbN6o72Q-1" value="&lt;h1&gt;Case&lt;br&gt;&lt;/h1&gt;&lt;div&gt;- Bagaimana menanggulangi dana yang sudah ditarik &lt;i&gt;end user&lt;/i&gt; (mahasiswa) ketika dalam pengalokasian dana salah?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fakultas salah mengalokasikan dana, maka sebelum dilakukan pengambilan dana harus dengan persetujuan&amp;nbsp;&lt;i&gt;end user&lt;/i&gt;&amp;nbsp;(mahasiswa)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fakultas salah mengalokasikan dana, maka dibulan selajutnya dikurangi dana dari bulan sebelumnya dengan catatan dan setelah withdrawal (manual) sistem profile dan ada keterangan (periode tahun)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="3U9bPzAuR0EvQbN6o72Q-1" value="&lt;h1&gt;Case&lt;br&gt;&lt;/h1&gt;&lt;div&gt;- Bagaimana menanggulangi dana yang sudah ditarik &lt;i&gt;end user&lt;/i&gt; (mahasiswa) ketika dalam pengalokasian dana salah?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fakultas salah mengalokasikan dana, maka sebelum dilakukan pengambilan dana harus dengan persetujuan&amp;nbsp;&lt;i&gt;end user&lt;/i&gt;&amp;nbsp;(mahasiswa)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Fakultas salah mengalokasikan dana, maka dibulan selajutnya dikurangi dana dari bulan sebelumnya dengan catatan dan setelah withdrawal (manual) sistem profile dan ada keterangan (periode tahun)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1080" width="420" height="380" as="geometry" />
         </mxCell>
       </root>
