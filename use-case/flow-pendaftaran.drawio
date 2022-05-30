@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T01:05:58.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="dg9bzUEjIDykyrIMT8WA" version="18.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-30T01:19:00.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="YexDX8GFg5ChuXOUmatG" version="18.1.3" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
     <mxGraphModel dx="656" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -638,6 +638,126 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="htslBq6bfJ_Y-lSbLJYI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="htslBq6bfJ_Y-lSbLJYI-31" source="htslBq6bfJ_Y-lSbLJYI-38" target="htslBq6bfJ_Y-lSbLJYI-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Transfer VA Teller" id="9_3KiUuxdCj8B66cqmTG">
+    <mxGraphModel dx="656" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-0" />
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-1" parent="1Ah-a1JaDH5jwebFt2nn-0" />
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-2" value="Transfer VA Teller (open)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-1">
+          <mxGeometry x="45" y="25" width="1040" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-3" value="Pemilik VA" style="swimlane;startSize=20;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-2">
+          <mxGeometry y="20" width="260" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-3" source="1Ah-a1JaDH5jwebFt2nn-5" target="1Ah-a1JaDH5jwebFt2nn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-3">
+          <mxGeometry x="115" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-6" value="Membawa nomor VA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-3">
+          <mxGeometry x="70" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-7" value="Teller" style="swimlane;startSize=20;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-2">
+          <mxGeometry x="260" y="20" width="280" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-8" value="Melakukan cek VA dengan nomor VA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-7">
+          <mxGeometry x="70" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-9" value="Memasukan nominal Transfer dan nomor VA Tujuan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-7">
+          <mxGeometry x="70" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-10" value="Konfirmasi Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-7">
+          <mxGeometry x="65" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-11" value="Front End Teller" style="swimlane;startSize=20;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-2">
+          <mxGeometry x="540" y="20" width="240" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-12" value="Input:&lt;br&gt;Nomor VA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="60" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-13" value="Output:&lt;br&gt;Data VA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="60" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-14" value="Action:&lt;br&gt;Klik Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="60" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-11" source="1Ah-a1JaDH5jwebFt2nn-16" target="1Ah-a1JaDH5jwebFt2nn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-16" value="Output:&lt;br&gt;Transaksi Berhasil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="60" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="105" y="755" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-18" value="Input:&lt;br&gt;Nominal penyetoran dan VA Tujuan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-11">
+          <mxGeometry x="65" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-14" target="1Ah-a1JaDH5jwebFt2nn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-24" target="1Ah-a1JaDH5jwebFt2nn-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-22" value="Service VA" style="swimlane;startSize=20;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-2">
+          <mxGeometry x="780" y="20" width="260" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-23" value="Kirim:&lt;br&gt;Cek VA berdasarkan Nomor VA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-22">
+          <mxGeometry x="70" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-24" value="Kirim:&lt;br&gt;Mutasi OUT(debet) VA dan Mutasi IN(kredit) VA tujuan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1Ah-a1JaDH5jwebFt2nn-22">
+          <mxGeometry x="70" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-6" target="1Ah-a1JaDH5jwebFt2nn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-8" target="1Ah-a1JaDH5jwebFt2nn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-12" target="1Ah-a1JaDH5jwebFt2nn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-23" target="1Ah-a1JaDH5jwebFt2nn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-13" target="1Ah-a1JaDH5jwebFt2nn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-18" target="1Ah-a1JaDH5jwebFt2nn-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="495" />
+              <mxPoint x="385" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-10" target="1Ah-a1JaDH5jwebFt2nn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ah-a1JaDH5jwebFt2nn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Ah-a1JaDH5jwebFt2nn-2" source="1Ah-a1JaDH5jwebFt2nn-9" target="1Ah-a1JaDH5jwebFt2nn-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="425" />
