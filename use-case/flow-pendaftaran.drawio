@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T01:03:23.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="G_nfdwl-xUh_uUmfuZ0U" version="18.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-30T01:03:30.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="en0-jyiqTm8mAsjw3q2f" version="18.1.3" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
     <mxGraphModel dx="656" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
       <root>
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-0" />
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-1" parent="cXjHh4zLjk2MOuMLmKwA-0" />
-        <mxCell id="cXjHh4zLjk2MOuMLmKwA-2" value="PenarikanVA Teller (open)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="cXjHh4zLjk2MOuMLmKwA-1" vertex="1">
+        <mxCell id="cXjHh4zLjk2MOuMLmKwA-2" value="Penarikan VA Teller (open)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="cXjHh4zLjk2MOuMLmKwA-1" vertex="1">
           <mxGeometry x="35" y="15" width="1040" height="850" as="geometry" />
         </mxCell>
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-3" value="Pemilik VA" style="swimlane;startSize=20;" parent="cXjHh4zLjk2MOuMLmKwA-2" vertex="1">
