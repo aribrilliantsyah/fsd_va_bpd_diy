@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T01:00:26.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="ZxFJW3XloOYH5g1GUlgN" version="18.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-30T01:00:37.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="qs0uXOFbRoEk8l-so2Pj" version="18.1.3" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Pendaftaran Mitra">
     <mxGraphModel dx="656" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,7 +408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Penarikan VA Teller (open)" id="jZ0SEJS4Phd9tTQJFUcD">
-    <mxGraphModel dx="1640" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="937" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-0" />
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-1" parent="cXjHh4zLjk2MOuMLmKwA-0" />
@@ -438,14 +438,6 @@
         </mxCell>
         <mxCell id="PPphseW0yGUWdz1ttmzG-3" value="Konfirmasi Penarikan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=none;" parent="cXjHh4zLjk2MOuMLmKwA-7" vertex="1">
           <mxGeometry x="65" y="515" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PPphseW0yGUWdz1ttmzG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cXjHh4zLjk2MOuMLmKwA-2" target="PPphseW0yGUWdz1ttmzG-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="335" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="390" y="425" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="cXjHh4zLjk2MOuMLmKwA-10" value="Front End Teller" style="swimlane;startSize=20;" parent="cXjHh4zLjk2MOuMLmKwA-2" vertex="1">
           <mxGeometry x="540" y="20" width="240" height="830" as="geometry" />
@@ -524,6 +516,13 @@
         </mxCell>
         <mxCell id="PPphseW0yGUWdz1ttmzG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cXjHh4zLjk2MOuMLmKwA-2" source="PPphseW0yGUWdz1ttmzG-3" target="cXjHh4zLjk2MOuMLmKwA-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MI6EJCvL5t09eOl3lUPh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="cXjHh4zLjk2MOuMLmKwA-2" source="cXjHh4zLjk2MOuMLmKwA-9" target="PPphseW0yGUWdz1ttmzG-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="425" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
